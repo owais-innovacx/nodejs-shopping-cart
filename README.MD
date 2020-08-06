@@ -1,6 +1,8 @@
 # NodeJS Shopping Cart - NodeJS, Express, Express-Session, Express handlebars (hbs)
 
 ### Run locally on your machine
+## my name is Heisenberg
+## Say my name
 You need to have installed Node and NPM.
 
 ![NodeJS Shopping Cart](/data/nodejs-cart-1.png?raw=true "NodeJS Shopping Cart")
